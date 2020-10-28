@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="img1">resource/image/1.png</file>
+        <file alias="img2">resource/image/2.png</file>
+        <file alias="img3">resource/image/3.png</file>
+        <file alias="img4">resource/image/4.png</file>
+        <file alias="img5">resource/image/5.png</file>
+        <file alias="img6">resource/image/6.png</file>
+
+        <file alias="combochecked.png">resource/image/combochecked.png</file>
+        <file alias="combocheckedb.png">resource/image/combocheckedb.png</file>
+        <file alias="combounchecked.png">resource/image/combounchecked.png</file>
+        <file alias="combouncheckedb.png">resource/image/combouncheckedb.png</file>
+    </qresource>
+</RCC>
